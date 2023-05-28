@@ -1,0 +1,3 @@
+24/05/23 
+  Excercise 2: Check maintenance mode using middleware CheckForMaintenanceMode and env variable APP_MAINTENANCE_MODE
+  
