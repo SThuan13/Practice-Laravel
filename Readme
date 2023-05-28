@@ -1,3 +1,10 @@
 24/05/23 
   Excercise 2: Check maintenance mode using middleware CheckForMaintenanceMode and env variable APP_MAINTENANCE_MODE
   
+28/05/23
+  Excercise 1: authentication 
+    admin: table, login, register
+    user: table, login, register
+  Excercise 2: 
+    admin->role('superAdmin'): crud
+    admin->role('admin): view list and detail
